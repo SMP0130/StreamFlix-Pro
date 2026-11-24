@@ -1,0 +1,16 @@
+# Xcode user data and build output
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+build/
+*.moved-aside
+*.xcscmblueprint
+*.xccheckout
+
+# macOS
+.DS_Store
+
+# Local credentials and service configuration
+StreamFLIXPro/Secrets.xcconfig
+StreamFLIXPro/GoogleService-Info.plist
